@@ -40,7 +40,6 @@ int travllingSalesmanProblem_usingApproximationAlgo(int **arr, int sourceV, int 
         vtr.push_back(i);
     } 
     
-    
     int minPathWeight = INT_MAX;                                // finding min weight Hamiltonian Cycle.
     do 
 	{
