@@ -31,7 +31,7 @@ void Graph::storeInputGraph(int nE)
 { 
     for(int i=0; i<nE; i++)                            
     {  int v1, v2;
-	   cin>>v1>>v2;	
+        cin>>v1>>v2;	
 	   
        adj[v1].push_back(v2);  }                        
 }
