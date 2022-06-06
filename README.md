@@ -1,2 +1,2 @@
 # College-Assignments
-Random college assignment codes
+Codes given as college assignments.
